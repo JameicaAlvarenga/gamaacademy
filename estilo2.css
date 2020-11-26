@@ -1,0 +1,36 @@
+body{
+    background-color: gray;
+}
+
+.container-fluid{
+    background-color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+#imagemLogo{
+   margin-bottom: 10px;
+}
+
+#logoLoja{
+     width: 100%;
+}
+
+#tituloDestaques{
+    margin-bottom: 30px
+}
+
+#prefacioLivro{
+    text-align: justify;
+}
+
