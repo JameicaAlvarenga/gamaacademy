@@ -34,3 +34,14 @@ h6{
     text-align: justify;
 }
 
+#rodapeText{
+    text-align: left;
+
+}
+
+#rodape{
+    padding-top:50px;
+    background-color: darkgrey;
+     color:white;
+}
+
